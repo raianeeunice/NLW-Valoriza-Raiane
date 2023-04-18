@@ -1,0 +1,14 @@
+# Ignore a pasta node_modules
+node_modules
+
+# Ignore todos os arquivos de texto
+*.txt
+
+# Ignore arquivos relacionados às chaves de API
+.env
+
+# Ignore pasta package-lock.json
+package-lock.json
+
+# Ignore todos os arquivos .sqlite
+*.sqlite
